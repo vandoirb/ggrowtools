@@ -397,7 +397,7 @@ if __name__ == "__main__":
     paleta = ListedColormap(sns.color_palette("ch:2,r=.2,l=.6").as_hex())
     #import cartopy
     
-    filename = r'C:\Users\vando\OneDrive\ORIENTACOES\Mestrado\Elton\Weather DATA\1_Embrapa_diario_Oct2017_to_July2019.txt'
+    filename = 'data\1_Embrapa_diario_Oct2017_to_July2019.txt'
 
     dados = pd.read_csv(filename, skiprows=0,usecols=['Dia','TMedia','TMax','TMin','RHMedia','RHMax','RHMmin',\
         'Chuva','VMed','VMax','VDir','RadS','Eto'], sep=';', engine='python', parse_dates=True)
