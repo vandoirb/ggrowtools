@@ -173,7 +173,10 @@ class Growth_model():
 
 # Potential evapotranspiration calculed by HARGREAVES approach   
     def HARGREAVES_ETO(self, RAD, TMin, TMax, TMean): 
-        # equation from ###
+        # equation from Hargreaves, G. L., Hargreaves, G. H., and Riley, J. P.: Irrigation
+        #               water requirements for Senegal river basin, J. Irrig. Drain. Eng.,
+        #               111, 265–275, 1985.
+        # Values are given in mm/day
         # 2.45 is the value of the latent heat.
         # The value of the latent heat varies only slightly over normal temperature ranges. 
         # A single value may be taken (for T = 20 °C): l = 2.45 MJ kg-1
