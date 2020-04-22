@@ -1,8 +1,6 @@
 # ggrowtools - Grass Growth Model for Urban Management
-
 <p align="center">
   <img src="demo/demo.gif">
-  ![Example of the model](demo/demo.gif)
 </p>
 
 This package presents a vegetation growth model designed to be used in the Urban Environment, but is expected to work for the grass growth in general.
