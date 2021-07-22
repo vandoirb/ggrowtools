@@ -13,4 +13,4 @@ Jun to Aug or Sep to May | daylength > 12 or daylength <= 12
 
 The default mode is 'SMI'.
 
-Example of how to run the model are available in [the examples folder](/example/)
+Example of how to run the model are available in [the examples folder](/examples/)
