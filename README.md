@@ -9,7 +9,7 @@ The model runs in two modes:
 SMI | Daylength
 ------------ | -------------
 Based on the Moisture Index (hydrological seasons) | Based on the day lenght
-Jun to Aug or Sep to May | daylength > 12 or daylength <= 12
+Jun to Aug or Sep to May | daylength > 12 or daylength <= 12 (as an example)
 
 The default mode is 'SMI'.
 
@@ -17,4 +17,4 @@ The model can be applyed to a single area/point or over multiple polygons (using
 
 Examples of how to run the model are available in [the examples folder](/examples/).
 
-The model is part of an underlying project ([SIGAVERDE](https://sigaverde.web.app/map)) developed with the support of the Brazilian National Council for Scientific and Technological Development (CNPq) and the São Paulo Research Foundation (FAPESP). A more complete description of the model may be found in [Escobar (2019)](https://repositorio.ufscar.br/handle/ufscar/12165).
+The model is part of an underlying project ([SIGAVERDE](https://sigaverde.web.app/map)) developed with the support of the Brazilian National Council for Scientific and Technological Development (CNPq) and the São Paulo Research Foundation (FAPESP). A more complete description of the model can be found in [Escobar (2019)](https://repositorio.ufscar.br/handle/ufscar/12165).
