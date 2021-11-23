@@ -246,7 +246,7 @@ class Growth_model():
             self.Etp = ET_adj
         else:
             print(self.Date,LAI)       
-        return self.Etp
+        return self.Etp 
         
 # determine the stress factor for Water (W_str)
 # *different conditions are considered for different previous rain rates
